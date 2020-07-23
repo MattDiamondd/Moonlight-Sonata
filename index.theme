@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Moonlight-Sonata
+Comment=Moonlight Sonata. Based on my wallpaper
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Moonlight-Sonata
+MetacityTheme=Moonlight-Sonata
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
